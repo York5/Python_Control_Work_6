@@ -1,7 +1,7 @@
 from django.db import models
 
 ACTIVE = 'active'
-STATUS_CHOICES = ((ACTIVE, 'Active'), ('blocked', 'Blocked'))
+STATUS_CHOICES = [(ACTIVE, 'Active'), ('blocked', 'Blocked')]
 
 
 class Review(models.Model):
