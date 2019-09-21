@@ -3,6 +3,7 @@ body {
 }
 .main_header {
     text-align: center;
+    margin-top: 30px;
 }
 .my_card {
     padding: 15px 15px 5px;
@@ -12,4 +13,12 @@ body {
 .card_links a {
     padding-left: 20px;
     padding-right: 20px;
+}
+.field-error {
+    border: solid 1px red;
+    box-shadow: red 0 0 3px;
+}
+.field_required {
+    font-weight: bold;
+    color: red;
 }
