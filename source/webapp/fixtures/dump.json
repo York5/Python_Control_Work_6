@@ -1,0 +1,128 @@
+[
+{
+  "model": "webapp.review",
+  "pk": 1,
+  "fields": {
+    "name": "Mike Myers",
+    "email": "mikemyers@gmai.com",
+    "text": "One of my best business vacation that I have never ever have been. Thanks a lot from everyone. And I would like to mention in particular that the paint of traveling was worth the comfort to be here.",
+    "created": "2019-09-21T06:05:26.777Z",
+    "edited": "2019-09-21T06:05:26.777Z",
+    "status": "active"
+  }
+},
+{
+  "model": "webapp.review",
+  "pk": 2,
+  "fields": {
+    "name": "Garry Cooper",
+    "email": "garrycooper@gmail.com",
+    "text": "I come with my boyfriend to your hotel two times. He made me come the first time and this time he made me come again and we had a good time at both times.",
+    "created": "2019-09-21T06:06:12.422Z",
+    "edited": "2019-09-21T06:06:12.423Z",
+    "status": "active"
+  }
+},
+{
+  "model": "webapp.review",
+  "pk": 3,
+  "fields": {
+    "name": "Maggy Misfits",
+    "email": "maggymisfits@gmail.com",
+    "text": "I come with my boyfriend to your hotel two times. He made me come the first time and this time he made me come again and we had a good time at both times.",
+    "created": "2019-09-21T06:07:38.641Z",
+    "edited": "2019-09-21T06:07:38.641Z",
+    "status": "active"
+  }
+},
+{
+  "model": "webapp.review",
+  "pk": 4,
+  "fields": {
+    "name": "Carry Fisher",
+    "email": "carryfisher@gmail.com",
+    "text": "Please get rid of your lobby pianist, because he doesn\u2019t understand the meaning of \u201cthat was just a one-time thing.\u201d",
+    "created": "2019-09-21T06:08:47.311Z",
+    "edited": "2019-09-21T06:08:47.311Z",
+    "status": "active"
+  }
+},
+{
+  "model": "webapp.review",
+  "pk": 5,
+  "fields": {
+    "name": "Tom Bombodil",
+    "email": "tombombodil@gmail.com",
+    "text": "Love the white cabinet with mirror in our room! We were thinking of a way to take it back home with us but thought that would be too obvious, plus we have no space due to buying lots of wine.",
+    "created": "2019-09-21T06:10:02.481Z",
+    "edited": "2019-09-21T06:10:02.481Z",
+    "status": "active"
+  }
+},
+{
+  "model": "webapp.review",
+  "pk": 6,
+  "fields": {
+    "name": "Mary Sew",
+    "email": "marysew@gmail.com",
+    "text": "We had to check out early as there was a ghost in the hotel that didn\u2019t want us here. Don't think we ever coming back here. Very bad.",
+    "created": "2019-09-21T06:11:48.192Z",
+    "edited": "2019-09-21T06:11:48.193Z",
+    "status": "active"
+  }
+},
+{
+  "model": "webapp.review",
+  "pk": 7,
+  "fields": {
+    "name": "Bob Ross",
+    "email": "bobross@yandex.com",
+    "text": "For a lot of travellers, holidays are a time to sit back, relax and have every little need taken care of, but it\u2019s probably fair to say requesting frogs to be moved to other side of the building is taking this a little too far.",
+    "created": "2019-09-21T06:13:09.504Z",
+    "edited": "2019-09-21T06:13:09.504Z",
+    "status": "blocked"
+  }
+},
+{
+  "model": "webapp.review",
+  "pk": 8,
+  "fields": {
+    "name": "Britney Byers",
+    "email": "britneybyers@outlook.com",
+    "text": "We suggest you put the bath towels & soap in the bathroom - not on the bed! I will never recommend your hotel to anyone! Burn in Hell!",
+    "created": "2019-09-21T06:14:26.852Z",
+    "edited": "2019-09-21T06:14:26.852Z",
+    "status": "blocked"
+  }
+},
+{
+  "model": "webapp.review",
+  "pk": 9,
+  "fields": {
+    "name": "Moly Boby Brown",
+    "email": "molyb@gmail.com",
+    "text": "I found a dead mouse in my bed and also the conditioner wasn't working. Our neighbours were constantly making noise so I couldn't sleep. Finally, our sink broke so we could't brush our teeth... Otherwise a very good hotel. I will sue you all!!!",
+    "created": "2019-09-21T08:34:42.606Z",
+    "edited": "2019-09-21T08:34:42.606Z",
+    "status": "active"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$150000$ZkOzmYAsqHWI$/UhvQmD3B0aCytHy1KZ+iz9kR3LsknsVHtE8skVyVto=",
+    "last_login": "2019-09-21T06:02:55.736Z",
+    "is_superuser": true,
+    "username": "mike",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2019-09-21T05:17:39.779Z",
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]
