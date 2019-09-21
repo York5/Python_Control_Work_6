@@ -53,3 +53,4 @@ def review_delete_view(request, pk):
     elif request.method == 'POST':
         review.delete()
         return redirect('index')
+
